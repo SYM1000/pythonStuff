@@ -1,0 +1,7 @@
+numero = int(input("Ingrese un numero"))
+
+for i in range(1,numero):
+    suma = i
+    for i in range(1,numero):
+        
+print(suma)
