@@ -1,1 +1,1 @@
-By using python and several libraries heatmap shown on a html file created was created.
+By using python and several libraries, a heatmap shown on a html file created was created.
