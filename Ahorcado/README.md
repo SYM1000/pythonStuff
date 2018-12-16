@@ -1,11 +1,11 @@
 This the hangman game created using python
 
- +------+                                                                    
- |      |
- |      o
- |     /|\
- |     / \
-_|_
-
+ +------+                                                                                                                     
+ |      |                                                                                                                     
+ |      o                                                                                                                     
+ |     /|\                                                                                                                     
+ |     / \                                                                                                                     
+_|_                                                                                                                     
+                                                                                                                     
 
 HAVE FUN!
