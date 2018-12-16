@@ -1,2 +1,4 @@
 # Python
-Estas son algunas cosas que he hecho usando python =)
+Estas son algunas cosas que he hecho usando python 
+
+=)
